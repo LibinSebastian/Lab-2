@@ -115,10 +115,10 @@ namespace calculatortest
 
             [Test]
             public void
-        GetMultipilication_Input2point9and5point9_Returns17point11()
+        GetMultipilication_Input2point4and5point9_Returns17point11()
             {
                 //Arrange
-                double number1 = 2.9;
+                double number1 = 2.4;
                 double number2 = 5.9;
                 double expectedResult = number1 * number2;
                 Calc testCalc = new Calc(number1, number2);
