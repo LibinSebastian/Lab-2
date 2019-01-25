@@ -1,0 +1,12 @@
+G:\Calculator\calculatortest\bin\Debug\calculatortest.dll
+G:\Calculator\calculatortest\bin\Debug\calculatortest.pdb
+G:\Calculator\calculatortest\bin\Debug\Calculator.exe
+G:\Calculator\calculatortest\bin\Debug\nunit.framework.dll
+G:\Calculator\calculatortest\bin\Debug\Calculator.pdb
+G:\Calculator\calculatortest\bin\Debug\Calculator.exe.config
+G:\Calculator\calculatortest\bin\Debug\nunit.framework.xml
+G:\Calculator\calculatortest\obj\Debug\caltest.csprojAssemblyReference.cache
+G:\Calculator\calculatortest\obj\Debug\caltest.csproj.CoreCompileInputs.cache
+G:\Calculator\calculatortest\obj\Debug\caltest.csproj.CopyComplete
+G:\Calculator\calculatortest\obj\Debug\calculatortest.dll
+G:\Calculator\calculatortest\obj\Debug\calculatortest.pdb
